@@ -135,14 +135,14 @@ Coded by www.creative-tim.com
           <div class="row">
             <nav class="footer-nav">
               <ul>
-                <li><a href="https://www.creative-tim.com" target="_blank">Creative Tim</a></li>
-                <li><a href="https://www.creative-tim.com/blog" target="_blank">Blog</a></li>
-                <li><a href="https://www.creative-tim.com/license" target="_blank">Licenses</a></li>
+                <li><a href="/" target="_blank">Home/a></li>
+                <li><a href="/page/faq" target="_blank">FAQ</a></li>
+                <li><a href="/page/pricing" target="_blank">Pricing</a></li>
               </ul>
             </nav>
             <div class="credits ml-auto">
               <span class="copyright">
-                © 2020, made with <i class="fa fa-heart heart"></i> by Creative Tim
+                © 2020, Royce, Sai, Lucia, John, and Nathaniel
               </span>
             </div>
           </div>
