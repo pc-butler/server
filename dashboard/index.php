@@ -38,14 +38,14 @@ Coded by www.creative-tim.com
   <div class="wrapper ">
     <div class="sidebar" data-color="white" data-active-color="danger">
       <div class="logo">
-        <a href="https://www.creative-tim.com" class="simple-text logo-mini">
+        <a href="/" class="simple-text logo-mini">
           <!-- <div class="logo-image-small">
             <img src="./assets/img/logo-small.png">
           </div> -->
           <!-- <p>CT</p> -->
         </a>
-        <a href="https://www.creative-tim.com" class="simple-text logo-normal">
-          Your Logo
+        <a href="/" class="simple-text logo-normal">
+          PC Butler
           <!-- <div class="logo-image-big">
             <img src="../assets/img/logo-big.png">
           </div> -->
@@ -56,19 +56,19 @@ Coded by www.creative-tim.com
           <li class="active ">
             <a href="javascript:;">
               <i class="nc-icon nc-bank"></i>
-              <p>First Item</p>
+              <p>Home</p>
             </a>
           </li>
           <li>
             <a href="javascript:;">
               <i class="nc-icon nc-diamond"></i>
-              <p>Second Item</p>
+              <p>Computers</p>
             </a>
           </li>
           <li>
             <a href="javascript:;">
               <i class="nc-icon nc-pin-3"></i>
-              <p>Third Item</p>
+              <p>Settings</p>
             </a>
           </li>
         </ul>
