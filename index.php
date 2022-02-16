@@ -116,8 +116,8 @@
             </h1>
             <p class="text-white mb-3">Easily start any device on the network from your home or anywhere else in the world!</p>
             <div class="btn-wrapper mb-3">
-              <p class="category text-success d-inline">From 9.99%/mo</p>
-              <a href="#blk" class="btn btn-success btn-link btn-sm"><i class="tim-icons icon-minimal-right"></i></a>
+              <p class="category text-success d-inline">View Pricing</p>
+              <a href="../page/pricing" class="btn btn-success btn-link btn-sm"><i class="tim-icons icon-minimal-right"></i></a>
             </div>
             <div class="btn-wrapper">
               <div class="button-container">
@@ -173,28 +173,29 @@
           <div class="col-md-3">
             <ul class="nav">
               <li class="nav-item">
-                <a href="https://creative-tim.com/contact-us" class="nav-link">
+                <a href="../page/contact-us" class="nav-link">
                   Contact Us
                 </a>
               </li>
               <li class="nav-item">
-                <a href="https://creative-tim.com/about-us" class="nav-link">
+                <a href="../page/about-us" class="nav-link">
                   About Us
                 </a>
               </li>
               <li class="nav-item">
-                <a href="https://creative-tim.com/blog" class="nav-link">
+                <a href="../page/blog" class="nav-link">
                   Blog
                 </a>
               </li>
               <li class="nav-item">
-                <a href="https://opensource.org/licenses/MIT" class="nav-link">
+                <a href="../page/license" class="nav-link">
                   License
                 </a>
               </li>
             </ul>
           </div>
           <div class="col-md-3">
+           <!--
             <h3 class="title">Follow us:</h3>
             <div class="btn-wrapper profile">
               <a target="_blank" href="https://twitter.com/creativetim" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
@@ -207,6 +208,7 @@
                 <i class="fab fa-dribbble"></i>
               </a>
             </div>
+            -->
           </div>
         </div>
       </div>
