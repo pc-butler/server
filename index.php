@@ -92,7 +92,7 @@
             <a class="nav-link" href="../page/faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../page/dashboard">Account</a>
+            <a class="nav-link" href="../dashboard">Account</a>
           </li>
         </ul>
       </div>
