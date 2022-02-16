@@ -65,6 +65,7 @@
           </div>
         </div>
         <ul class="navbar-nav">
+         <!--
           <li class="nav-item p-0">
             <a class="nav-link" rel="tooltip" title="Follow us on Twitter" data-placement="bottom" href="https://twitter.com/CreativeTim" target="_blank">
               <i class="fab fa-twitter"></i>
@@ -83,11 +84,12 @@
               <p class="d-lg-none d-xl-none">Instagram</p>
             </a>
           </li>
+          -->
           <li class="nav-item">
-            <a class="nav-link" href="../index.html">Back to Kit</a>
+            <a class="nav-link" href="../index.html">Pricing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://github.com/creativetimofficial/blk-design-system/issues">Have an issue?</a>
+            <a class="nav-link" href="https://github.com/creativetimofficial/blk-design-system/issues">Account</a>
           </li>
         </ul>
       </div>
