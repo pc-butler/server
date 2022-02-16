@@ -146,6 +146,7 @@
           <div class="col-md-3">
             <h1 class="title">PC•Butler</h1>
           </div>
+         <!--
           <div class="col-md-3">
             <ul class="nav">
               <li class="nav-item">
@@ -170,6 +171,7 @@
               </li>
             </ul>
           </div>
+          -->
           <div class="col-md-3">
             <ul class="nav">
               <li class="nav-item">
