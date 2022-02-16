@@ -98,7 +98,7 @@
     
       
     <section class="section section-lg section-coins">
-      <img src="../assets/img/path3.png" class="path">
+      <img src="/assets/img/path3.png" class="path">
       <div class="container">
         <div class="row">
           <div class="col-md-4">
@@ -112,7 +112,7 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="../assets/img/bitcoin.png" class="img-center img-fluid">
+                <img src="/assets/img/bitcoin.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
@@ -138,7 +138,7 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="../assets/img/etherum.png" class="img-center img-fluid">
+                <img src="/assets/img/etherum.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
@@ -164,7 +164,7 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="../assets/img/ripp.png" class="img-center img-fluid">
+                <img src="/assets/img/ripp.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
