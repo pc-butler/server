@@ -105,11 +105,11 @@
       <div class="content-center">
         <div class="row row-grid justify-content-between align-items-center text-left">
           <div class="col-lg-6 col-md-6">
-            <h1 class="text-white">We keep your coin
+            <h1 class="text-white">We start your devices
               <br/>
-              <span class="text-white">secured</span>
+              <span class="text-white">remotely</span>
             </h1>
-            <p class="text-white mb-3">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel...</p>
+            <p class="text-white mb-3">Easily start any device on the network from your home or anywhere else in the world!</p>
             <div class="btn-wrapper mb-3">
               <p class="category text-success d-inline">From 9.99%/mo</p>
               <a href="#blk" class="btn btn-success btn-link btn-sm"><i class="tim-icons icon-minimal-right"></i></a>
