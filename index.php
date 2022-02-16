@@ -129,7 +129,7 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-5">
-            <img src="../assets/img/undraw_On_the_office_re_cxds.png" alt="Circle image" class="img-fluid">
+            <img src="../assets/img/undraw_on_the_office_re_cxds.svg" alt="Circle image" class="img-fluid">
           </div>
         </div>
       </div>
