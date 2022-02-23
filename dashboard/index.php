@@ -155,7 +155,7 @@ Coded by www.creative-tim.com
                <td> 10.250.73.125 </td> 
                <td style="color:green"> Online </td> 
                <td class="text-right"> <button>Power-off</button> </td> 
-              </tr> ..... 
+              </tr>
             </table> 
            </div>
 
