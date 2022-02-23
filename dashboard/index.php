@@ -140,16 +140,16 @@ Coded by www.creative-tim.com
              </thead> 
              <tbody> 
               <tr> 
-               <td> Dakota Rice </td> 
-               <td> Niger </td> 
-               <td> Oud-Turnhout </td> 
-               <td class="text-right"> $36,738 </td> 
+               <td> SJSU-PC1 </td> 
+               <td> 10.250.73.103 </td> 
+               <td> Offline </td> 
+               <td class="text-right"> <button>Power-on</button> </td> 
               </tr> 
               <tr> 
-               <td> Minerva Hooper </td> 
-               <td> Curaçao </td> 
-               <td> Sinaai-Waas </td> 
-               <td class="text-right"> $23,789 </td> 
+               <td> SJSU-PC5 </td> 
+               <td> 10.250.73.125 </td> 
+               <td> Online </td> 
+               <td class="text-right"> <button>Power-off</button> </td> 
               </tr> ..... 
             </table> 
            </div>
