@@ -166,7 +166,7 @@ Coded by www.creative-tim.com
             <div class="card ">
               <div class="card-header ">
                 <h5 class="card-title">Network performance</h5>
-                <p class="card-category">Last Campaign Performance</p>
+                <p class="card-category"></p>
               </div>
               <div class="card-body ">
                 <canvas id="chartEmail"></canvas>
