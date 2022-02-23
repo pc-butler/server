@@ -225,6 +225,14 @@ Coded by www.creative-tim.com
    <script src="./assets/js/demo.js"></script>
   <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="./assets/js/paper-dashboard.min.js?v=2.0.1" type="text/javascript"></script>
+   
+   <script>
+    $(document).ready(function() {
+      // Javascript method's body can be found in assets/assets-for-demo/js/demo.js
+      demo.initChartsPages();
+    });
+  </script>
+   
 </body>
 
 </html>
