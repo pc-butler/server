@@ -132,10 +132,10 @@ Coded by www.creative-tim.com
             <table class="table"> 
              <thead class=" text-primary"> 
               <tr>
-               <th> Name </th> 
-               <th> Country </th> 
-               <th> City </th> 
-               <th class="text-right"> Salary </th> 
+               <th> Hostname </th> 
+               <th> IP Address </th> 
+               <th> Status </th> 
+               <th class="text-right"> Action </th> 
               </tr>
              </thead> 
              <tbody> 
