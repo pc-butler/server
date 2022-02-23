@@ -158,7 +158,8 @@ Coded by www.creative-tim.com
               </tr>
             </table> 
            </div>
-               
+             </div>
+           </div>
                
          <div class="row">
           <div class="col-md-4">
