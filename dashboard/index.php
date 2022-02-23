@@ -126,7 +126,7 @@ Coded by www.creative-tim.com
       <div class="content">
         <div class="row">
           <div class="col-md-12">
-            <h3 class="description">This is main dashboard.</h3>
+            <h3 class="description">Devices ---</h3>
            
            <div class="table-responsive">
             <table class="table"> 
