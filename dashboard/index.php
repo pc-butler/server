@@ -127,6 +127,7 @@ Coded by www.creative-tim.com
         <div class="row">
           <div class="col-md-12">
             <h3 class="description">This is main dashboard.</h3>
+           
            <div class="table-responsive">
             <table class="table"> 
              <thead class=" text-primary"> 
@@ -138,7 +139,20 @@ Coded by www.creative-tim.com
               </tr>
              </thead> 
              <tbody> 
-              <tr> <td> Dakota Rice </td> <td> Niger </td> <td> Oud-Turnhout </td> <td class="text-right"> $36,738 </td> </tr> <tr> <td> Minerva Hooper </td> <td> Curaçao </td> <td> Sinaai-Waas </td> <td class="text-right"> $23,789 </td> </tr> ..... </table> </div>
+              <tr> 
+               <td> Dakota Rice </td> 
+               <td> Niger </td> 
+               <td> Oud-Turnhout </td> 
+               <td class="text-right"> $36,738 </td> 
+              </tr> 
+              <tr> 
+               <td> Minerva Hooper </td> 
+               <td> Curaçao </td> 
+               <td> Sinaai-Waas </td> 
+               <td class="text-right"> $23,789 </td> 
+              </tr> ..... 
+            </table> 
+           </div>
 
 
           </div>
