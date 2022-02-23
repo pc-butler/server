@@ -142,13 +142,13 @@ Coded by www.creative-tim.com
               <tr> 
                <td> SJSU-PC1 </td> 
                <td> 10.250.73.103 </td> 
-               <td> Offline </td> 
+               <td style="color:red"> Offline </td> 
                <td class="text-right"> <button>Power-on</button> </td> 
               </tr> 
               <tr> 
                <td> SJSU-PC5 </td> 
                <td> 10.250.73.125 </td> 
-               <td> Online </td> 
+               <td style="color:green"> Online </td> 
                <td class="text-right"> <button>Power-off</button> </td> 
               </tr> ..... 
             </table> 
