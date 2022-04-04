@@ -15,7 +15,7 @@
  -->
 <!DOCTYPE html>
 <html lang="en">
-
+ 
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -103,8 +103,8 @@
         <div class="row">
           <div class="col-md-4">
             <hr class="line-info">
-            <h1>Choose the coin
-              <span class="text-info">that fits your needs</span>
+            <h1>Choose the butler
+              <span class="text-info">that caters your needs</span>
             </h1>
           </div>
         </div>
@@ -112,20 +112,20 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/bitcoin.png" class="img-center img-fluid">
+                <img src="/assets/img/STAR BUTLER.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Light Coin</h4>
+                    <h4 class="text-uppercase">Star</h4>
                     <span>Plan</span>
                     <hr class="line-primary">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">50 messages</li>
-                    <li class="list-group-item">100 emails</li>
+                    <li class="list-group-item">1 User</li>
+                    <li class="list-group-item">up to 5 devices</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
@@ -138,20 +138,20 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/etherum.png" class="img-center img-fluid">
+                <img src="/assets/img/ASTRO BUTLER.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Dark Coin</h4>
+                    <h4 class="text-uppercase">Astro</h4>
                     <span>Plan</span>
                     <hr class="line-success">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">150 messages</li>
-                    <li class="list-group-item">1000 emails</li>
+                    <li class="list-group-item">up to 3 Users</li>
+                    <li class="list-group-item">up to 15 devices</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
@@ -164,20 +164,20 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/ripp.png" class="img-center img-fluid">
+                <img src="/assets/img/GALAXY BUTLER.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Bright Coin</h4>
+                    <h4 class="text-uppercase">Galaxy</h4>
                     <span>Plan</span>
                     <hr class="line-info">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">350 messages</li>
-                    <li class="list-group-item">10K emails</li>
+                    <li class="list-group-item">up to 25 Users</li>
+                    <li class="list-group-item">up to 50 devices</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
