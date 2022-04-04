@@ -81,7 +81,7 @@
             <a class="nav-link" rel="tooltip" title="Follow us on Instagram" data-placement="bottom" href="https://www.instagram.com/CreativeTimOfficial" target="_blank">
               <i class="fab fa-instagram"></i>
               <p class="d-lg-none d-xl-none">Instagram</p>
-            </a>
+           </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="../index.html">Back to Kit</a>
@@ -104,7 +104,7 @@
           <div class="col-md-4">
             <hr class="line-info">
             <h1>Choose the butler
-              <span class="text-info">that caters your needs</span>
+              <span class="text-info">that caters to your needs</span>
             </h1>
           </div>
         </div>
