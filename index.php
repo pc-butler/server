@@ -92,7 +92,7 @@
             <a class="nav-link" href="../page/faq">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../dashboard">Account</a>
+            <a class="nav-link" href="https://dashboard.pcbutler.net">Account</a>
           </li>
         </ul>
       </div>
