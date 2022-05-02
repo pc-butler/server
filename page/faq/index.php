@@ -119,9 +119,9 @@
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">Device used to remotely</li>
+                    <li class="list-group-item">Service used to conveniently</li>
                     <li class="list-group-item">start up your offline</li>
-                    <li class="list-group-item">devices from afar</li>
+                    <li class="list-group-item">devices remotely</li>
                   </ul>
                 </div>
               </div>
@@ -141,9 +141,9 @@
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">Star for individuals</li>
-                    <li class="list-group-item">Astro for groups</li>
-                    <li class="list-group-item">Galaxy for company</li>
+                    <li class="list-group-item">We have monthly plans (per device) for those who want to try</li>
+                    <li class="list-group-item">out the service. Plans for small businesses with up to 500 devices</li>
+                    <li class="list-group-item">as well as for large businesses with over 500 users with a limit of 500 added new devices a month.</li>
                   </ul>
                 </div>
               </div>
@@ -157,16 +157,15 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Question 3</h4>
-                    <span>TBD</span>
+                    <h4 class="text-uppercase">How do companies use PC BUTLER?</h4>
                     <hr class="line-info">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">answer..</li>
-                    <li class="list-group-item">answer..</li>
-                    <li class="list-group-item">answer..</li>
+                    <li class="list-group-item">Regardless of the amount of employees a company has, large and small</li>
+                    <li class="list-group-item">companies are able to provide their employees the ability to turn on their devices</li>
+                    <li class="list-group-item">at their own convience, improving their workflow and efficiency.</li>
                   </ul>
                 </div>
               </div>
