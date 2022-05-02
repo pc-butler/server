@@ -112,20 +112,20 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/STAR BUTLER.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 1.PNG" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Star</h4>
-                    <span>Plan</span>
+                    <h4 class="text-uppercase">Individual Devices</h4>
+                    <span>Monthly or Annually </span>
                     <hr class="line-primary">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">1 User</li>
-                    <li class="list-group-item">up to 5 devices</li>
+                    <li class="list-group-item">$5/month per device/li>
+                    <li class="list-group-item">unlimited devices</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
@@ -138,20 +138,20 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/ASTRO BUTLER.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 2.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Astro</h4>
+                    <h4 class="text-uppercase">Small Business</h4>
                     <span>Plan</span>
                     <hr class="line-success">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">up to 3 Users</li>
-                    <li class="list-group-item">up to 15 devices</li>
+                    <li class="list-group-item">up to 500 devices</li>
+                    <li class="list-group-item">$40/month</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
@@ -164,20 +164,21 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/GALAXY BUTLER.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 3 main.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">Galaxy</h4>
+                    <h4 class="text-uppercase">Large Business</h4>
                     <span>Plan</span>
                     <hr class="line-info">
                   </div>
                 </div>
                 <div class="row">
                   <ul class="list-group">
-                    <li class="list-group-item">up to 25 Users</li>
-                    <li class="list-group-item">up to 50 devices</li>
+                    <li class="list-group-item">over 500 users </li>
+                    <li class="list-group-item">$200/month</li>
+                    <li class="list-group-item">up to 500 new devices per month</li>
                     <li class="list-group-item">24/7 Support</li>
                   </ul>
                 </div>
