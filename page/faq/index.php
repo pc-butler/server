@@ -130,12 +130,12 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/ASTRO BUTLER.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 3 main.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
                   <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">What plans do you offer/</h4>
+                    <h4 class="text-uppercase">What plans do you offer?</h4>
                     <hr class="line-success">
                   </div>
                 </div>
@@ -152,7 +152,28 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/GALAXY BUTLER.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 1.png" class="img-center img-fluid">
+              </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-md-12 text-center">
+                    <h4 class="text-uppercase">I am locked out of my account, what should I do?</h4>
+                    <hr class="line-success">
+                  </div>
+                </div>
+                <div class="row">
+                  <ul class="list-group">
+                    <li class="list-group-item">Please reach out to our customer support team;</li>
+                    <li class="list-group-item">we're here for you 24/7.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="card card-coin card-plain">
+              <div class="card-header">
+                <img src="/assets/img/butler 2.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
