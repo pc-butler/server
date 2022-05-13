@@ -30,8 +30,11 @@
   <link href="/assets/css/blk-design-system.css?v=1.0.0" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="/assets/demo/demo.css" rel="stylesheet" />
-</head>
-<body class="landing-page">
+</head>    
+  
+<style>.u-disable-duration * {transition-duration: 0s !important;}</style></body>
+ 
+ <body class="landing-page">
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg fixed-top navbar-transparent " color-on-scroll="100">
     <div class="container">
@@ -92,109 +95,65 @@
   <!-- End Navbar -->
   <div class="wrapper">
     
-      
-    <section class="section section-lg section-coins">
-      <img src="/assets/img/path3.png" class="path">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-            <hr class="line-info">
-            <h1>Frequently asked
-              <span class="text-info">questions</span>
-            </h1>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4">
-            <div class="card card-coin card-plain">
-              <div class="card-header">
-                <img src="/assets/img/STAR BUTLER.png" class="img-center img-fluid">
-              </div>
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">What is a PC Butler?</h4>
-                    <hr class="line-primary">
-                  </div>
-                </div>
-                <div class="row">
-                  <ul class="list-group">
-                    <li class="list-group-item">Service used to conveniently</li>
-                    <li class="list-group-item">start up your offline</li>
-                    <li class="list-group-item">devices remotely</li>
-                  </ul>
+    <section class="u-align-center u-clearfix u-section-1" id="carousel_b628">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h2 class="u-text u-text-1">Frequently Asked Questio&ZeroWidthSpace;n</h2>
+        <div class="u-accordion u-collapsed-by-default u-faq u-spacing-10 u-accordion-1">
+          <div class="u-accordion-item">
+            <a class="u-accordion-link u-active-palette-3-light-2 u-button-style u-grey-5 u-hover-palette-4-light-2 u-accordion-link-1" id="link-accordion-72f4" aria-controls="accordion-72f4" aria-selected="false">
+              <span class="u-accordion-link-text">What is a PCBulter?</span><span class="u-accordion-link-icon u-icon u-text-active-white u-text-hover-white u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-b250"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-b250"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+            </a>
+            <div class="u-accordion-pane u-container-style u-expanded-width u-white u-accordion-pane-1" id="accordion-72f4" aria-labelledby="link-accordion-72f4">
+              <div class="u-container-layout u-container-layout-1">
+                <div class="fr-view u-clearfix u-rich-text u-text">
+                  <p>PCButler is a remote device management service used to conveniently start up offline devices to promote a smooth workflow.</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="card card-coin card-plain">
-              <div class="card-header">
-                <img src="/assets/img/butler 3 main.png" class="img-center img-fluid">
-              </div>
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">What plans do you offer?</h4>
-                    <hr class="line-success">
-                  </div>
-                </div>
-                <div class="row">
-                  <ul class="list-group">
-                    <li class="list-group-item">We have monthly plans (per device) for those who want to try</li>
-                    <li class="list-group-item">out the service. Plans for small businesses with up to 500 devices</li>
-                    <li class="list-group-item">as well as for large businesses with over 500 users with a limit of 500 added new devices a month.</li>
-                  </ul>
+          <div class="u-accordion-item">
+            <a class="u-accordion-link u-active-palette-3-light-2 u-button-style u-grey-5 u-hover-palette-4-light-2 u-accordion-link-2" id="link-accordion-854e" aria-controls="accordion-854e" aria-selected="false">
+              <span class="u-accordion-link-text">What plans do you offer?</span><span class="u-accordion-link-icon u-icon u-text-active-white u-text-hover-white u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-4779"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-4779"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+            </a>
+            <div class="u-accordion-pane u-container-style u-expanded-width u-white u-accordion-pane-2" id="accordion-854e" aria-labelledby="link-accordion-854e">
+              <div class="u-container-layout u-container-layout-2">
+                <div class="fr-view u-clearfix u-rich-text u-text">
+                  <p id="isPasted">We have monthly plans (per device) for those who want to try out the service. Plans for small businesses with up to 500 devices as well as for large businesses with over 500 users with a limit of 500 added new devices a month.</p>
+                  <p>
+                    <br>
+                  </p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="card card-coin card-plain">
-              <div class="card-header">
-                <img src="/assets/img/butler 1.png" class="img-center img-fluid">
-              </div>
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">I am locked out of my account, what should I do?</h4>
-                    <hr class="line-success">
-                  </div>
-                </div>
-                <div class="row">
-                  <ul class="list-group">
-                    <li class="list-group-item">Please reach out to our customer support team;</li>
-                    <li class="list-group-item">we're here for you 24/7.</li>
-                  </ul>
+          <div class="u-accordion-item u-expanded-width">
+            <a class="u-accordion-link u-active-palette-3-light-2 u-button-style u-grey-5 u-hover-palette-4-light-2 u-accordion-link-3" id="link-accordion-f600" aria-controls="accordion-f600" aria-selected="false">
+              <span class="u-accordion-link-text">How do companies use PCBUTLER?</span><span class="u-accordion-link-icon u-icon u-text-active-white u-text-hover-white u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1e29"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-1e29"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+            </a>
+            <div class="u-accordion-pane u-container-style u-expanded-width u-white u-accordion-pane-3" id="accordion-f600" aria-labelledby="link-accordion-f600">
+              <div class="u-container-layout u-container-layout-3">
+                <div class="fr-view u-clearfix u-rich-text u-text">
+                  <p>Regardless of the amount of employees a company has, large and small companies are able to provide their employees the ability to turn on their devices at their own convience, improving their workflow and efficiency.</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-4">
-            <div class="card card-coin card-plain">
-              <div class="card-header">
-                <img src="/assets/img/butler 2.png" class="img-center img-fluid">
-              </div>
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-md-12 text-center">
-                    <h4 class="text-uppercase">How do companies use PC BUTLER?</h4>
-                    <hr class="line-info">
-                  </div>
-                </div>
-                <div class="row">
-                  <ul class="list-group">
-                    <li class="list-group-item">Regardless of the amount of employees a company has, large and small</li>
-                    <li class="list-group-item">companies are able to provide their employees the ability to turn on their devices</li>
-                    <li class="list-group-item">at their own convience, improving their workflow and efficiency.</li>
-                  </ul>
+          <div class="u-accordion-item u-expanded-width">
+            <a class="u-accordion-link u-active-palette-3-light-2 u-button-style u-grey-5 u-hover-palette-4-light-2 u-accordion-link-4" id="link-accordion-f600" aria-controls="accordion-f600" aria-selected="false">
+              <span class="u-accordion-link-text"> I am locked out of my account, what should I do?</span><span class="u-accordion-link-icon u-icon u-text-active-white u-text-hover-white u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 426.66667 426.66667" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-58d2"></use></svg><svg class="u-svg-content" viewBox="0 0 426.66667 426.66667" id="svg-58d2"><path d="m405.332031 192h-170.664062v-170.667969c0-11.773437-9.558594-21.332031-21.335938-21.332031-11.773437 0-21.332031 9.558594-21.332031 21.332031v170.667969h-170.667969c-11.773437 0-21.332031 9.558594-21.332031 21.332031 0 11.777344 9.558594 21.335938 21.332031 21.335938h170.667969v170.664062c0 11.777344 9.558594 21.335938 21.332031 21.335938 11.777344 0 21.335938-9.558594 21.335938-21.335938v-170.664062h170.664062c11.777344 0 21.335938-9.558594 21.335938-21.335938 0-11.773437-9.558594-21.332031-21.335938-21.332031zm0 0"></path></svg></span>
+            </a>
+            <div class="u-accordion-pane u-container-style u-expanded-width u-white u-accordion-pane-4" id="accordion-f600" aria-labelledby="link-accordion-f600">
+              <div class="u-container-layout u-container-layout-4">
+                <div class="fr-view u-clearfix u-rich-text u-text u-text-5">
+                  <p>Please reach out to our customer support team; we're here for you 24/7.</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </section>      
+   
     <footer class="footer">
       <div class="container">
         <div class="row">
