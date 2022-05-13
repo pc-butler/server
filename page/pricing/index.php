@@ -164,7 +164,7 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/butler 3 main.PNG" class="img-center img-fluid">
+                <img src="/assets/img/3B3CF42B-B665-42B7-BDA6-26BFE5F9C3EE.png" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
