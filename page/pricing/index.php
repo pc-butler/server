@@ -138,7 +138,7 @@
           <div class="col-md-4">
             <div class="card card-coin card-plain">
               <div class="card-header">
-                <img src="/assets/img/butler 2.png" class="img-center img-fluid">
+                <img src="/assets/img/butler 2.PNG" class="img-center img-fluid">
               </div>
               <div class="card-body">
                 <div class="row">
